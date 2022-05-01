@@ -1,15 +1,13 @@
 # a markdown poem
-## draft two of tbd
+## draft three of tbd
 
-** ahem
+**ahem
+*this
+~mistake
 
-* this
+>not mine.
 
-~ mistake
-
-> not mine.
-
-[who](foo.com)
+[who](foo?)
 
 ` computers.
 
